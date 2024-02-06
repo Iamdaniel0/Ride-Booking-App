@@ -1,0 +1,30 @@
+.entire{
+    box-sizing: border-box;
+    text-align: start;
+    background: transparent;
+}
+.Text{
+    font-family: monospace;
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.8em;
+    color: aliceblue;
+    padding-bottom: 30px;
+}
+.Header{
+    font-size: 2em;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 50px;
+    color: aliceblue;
+}
+.ExBtn{
+    background: transparent;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    font-weight: bold;
+    padding: 20px;
+    font-size: 1em;
+    border: solid 1px;
+    cursor: pointer;
+}

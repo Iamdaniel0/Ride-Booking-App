@@ -1,0 +1,7 @@
+.SectionOne{
+    display: flex;
+    justify-content: center;
+    background-color: var(--p--col);
+    width: 100%;
+    box-sizing: border-box;
+}

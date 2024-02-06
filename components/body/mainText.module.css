@@ -1,0 +1,11 @@
+.Ptext{
+    line-height: 30px;
+    font-family:monospace;
+    font-size: 1.2em;
+    text-align: start;
+    font-weight: 800;
+}
+.ttt{
+    display: inline-block;
+    color: darkred;
+}

@@ -1,0 +1,23 @@
+.cover{
+    background-image: url('../public/pexels-tim-samuel-5835282.jpg');
+    box-sizing: border-box;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.tras{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+    padding: 70px;
+    gap: 80px;
+}
+.EarnImages{
+    width: 40px;
+}
+.Detailed{
+    font: 3em sans-serif;
+    font-weight: 1000;
+    color: rgb(145, 52, 52);
+}

@@ -1,0 +1,38 @@
+.tag{
+    font: 1.9em sans-serif;
+    font-weight: bolder;
+    font-style: normal;
+    color: #000;
+    display: flex;
+    width: 300px;
+}
+.display{
+    background-color: rgb(146, 66, 66);
+    padding: 40px;
+}
+.bbb{
+    display: block;
+    width: 110%;
+    height: 50px;
+
+}
+.ddd{
+    box-sizing: border-box;
+    padding: 40px;
+}
+.aaa{
+    font: 1em sans-serif;
+    color: aliceblue;
+    font-weight: bold;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+.form{
+    padding: 10px;
+}
+.inputDiv{
+    box-sizing: border-box;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

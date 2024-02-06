@@ -1,0 +1,98 @@
+.oooo{
+    display: block;
+    background-color: antiquewhite;
+}
+.uuu{
+    display: flex;
+    gap: 100px;
+}
+.uio{
+    color: #ffffff;
+    font-family: monospace;
+    font-weight: 700;
+    font-size: 1.5em;
+    padding-bottom: 3%;
+}
+.lll{
+    padding-left: 8%;
+    padding-right: 8%;
+    color: rgb(255, 255, 255);
+    background-color: red;
+    font: 1em sans-serif;
+}
+.bbb{
+    display: block;
+    width: 700px;
+    height: 30px;
+    margin-bottom: 20px;
+    border: none;
+    border-radius: 5px;
+}
+.pppp{
+    background-color: aqua;
+    padding: 40px;
+    margin: auto;
+}
+.kk{
+    background-color: aqua;
+    padding: 40px;
+}
+.section{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+.kol{
+    margin-top: 50%;
+}
+.look{
+    display: block;
+    background-color: aqua;
+    margin-top: 30%;
+}
+.search-bar{
+    display: block;
+    background-color: azure;
+}
+.txt{
+    text-align: center;
+    font-family: monospace;
+    font-size: 2em;
+    font-weight: 900;
+    width: 100%;
+}
+.vid{
+    width: 100%;
+    height: auto;
+}
+.www{
+    box-sizing: border-box;
+    width: 30%;
+    display: block;
+    margin: auto;
+}
+.mm{
+    margin-top: 50%;
+}
+.yyy{
+    box-sizing: border-box;
+    background-color: red;
+    padding: 3%;
+}
+.yy{
+    margin-top: 5%;
+}
+.admin{
+    margin-top: 40%;
+}
+.uuu{
+    color: brown;
+    margin-left: 70px;
+}
+.ggg{
+    display: block;
+    margin-top: 5%;
+}
+.xxcx{
+    display: flex;
+}

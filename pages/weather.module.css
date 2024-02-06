@@ -1,0 +1,44 @@
+.card button:hover{
+    width: 100%;
+    border: none;
+    padding: 20px;
+    cursor: pointer;
+    background-color: whitesmoke;
+    color: gray;
+    font-size: 1.3em;
+    transition: 300ms;
+}
+.card button{
+    width: 100%;
+    border: none;
+    padding: 20px;
+    background-color: gray;
+    color: white;
+    font-size: 1.3em;
+    margin-top: 20px;
+}
+.card input{
+    padding: 20px;
+    margin-top: 20px;
+    width: 100%;
+}
+.card{
+    margin-top: 300px;
+    margin-bottom: 300px;
+    width: 50%;
+    margin-left: 25%;
+    padding: 20px;
+    border: solid gray 1px;
+    box-shadow: gray 1px 2px 3px;
+}
+.minfo{
+    display: flex;   
+    margin-bottom: 10px; 
+}
+.info{
+    padding: 3%;
+    display: none;
+}
+.card label{
+    font-size: larger;
+}

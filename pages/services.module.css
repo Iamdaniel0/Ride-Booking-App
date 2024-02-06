@@ -1,0 +1,23 @@
+.www{
+    width: 100%;
+    box-sizing: border-box;
+}
+.der{
+    width: 30%;
+    box-sizing: border-box;
+}
+.lll{
+    width: 1px;
+    height: 80px;
+    background-color: black;
+    display: block;
+}
+.sec{
+    background-color: aqua;
+    display: flex;
+    justify-self: center;
+}
+.ooo{
+    
+    background-color: rgb(255, 255, 255);
+}

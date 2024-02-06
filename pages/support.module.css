@@ -1,0 +1,13 @@
+.cover{
+    background-image: url('../public/pexels-anna-shvets-3727464.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-sizing: border-box;
+    width: 100%;
+}
+.details{
+    box-sizing: border-box;
+    padding: 50%;
+
+}
